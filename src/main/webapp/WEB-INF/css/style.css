@@ -1,0 +1,50 @@
+h1 {
+    text-align: center;
+    color: green;
+    padding: 10px 5px;
+}
+
+form {
+      position: relative;
+      z-index: 1;
+      background: #FFFFFF;
+      max-width: 360px;
+      margin: 0 auto 100px;
+      padding: 45px;
+      text-align: center;
+      box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+table {
+    margin: 20px auto;
+    width: 600px;
+    background: #fffff0;
+    border: 1px solid #a52a2a;
+    border-collapse: collapse;
+}
+td, th {
+    padding: 3px;
+}
+td {
+    text-align: center;
+    border-bottom: 1px solid #a52a2a;
+}
+th {
+    background: #a52a2a;
+    color: white;
+ }
+tr.even {
+     background: #fff8dc;
+}
+
+.la {
+  text-align: left;
+
+
+form {
+    width: 400px;
+    margin: 10px auto;
+    padding: 10px;
+    border: 2px solid lime;
+    background: green;
+}
